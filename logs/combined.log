@@ -1,0 +1,772 @@
+[24/Jun/2021:13:01:49 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:03:17 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:03:24 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:03:39 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:03:49 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:04:06 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:05:50 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:07:15 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:08:43 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:10:36 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:10:49 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:10:50 +0100] [info] ::1 - "GET /api/v1/adress/ HTTP/1.1" 200 62.752 ms - 124 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:13:14:41 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:14:52 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:15:37 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:21:10 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:21:43 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:21:55 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:24:41 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:25:38 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:25:44 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:13:25:44 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress/ HTTP/1.1" 400 3.546 ms - 34 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:13:26:04 +0100] [info] ::1 - "GET /api/v1/adress/login HTTP/1.1" 400 0.584 ms - 34 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:13:26:12 +0100] [info] ::1 - "GET /api/v1/login HTTP/1.1" 400 0.767 ms - 34 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:13:26:27 +0100] [info] ::1 - "POST /api/v1/login HTTP/1.1" 200 74.605 ms - 14 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:15:03:44 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:15:03:51 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 7.081 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:03:51 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 145.739 ms - 199 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:15:10 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:15:15:26 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 4.410 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:15:26 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 148.332 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:22:06 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 4.890 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:22:06 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 0.618 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:26:03 +0100] [info] ::1 - "POST /api/v1/login HTTP/1.1" 200 3.779 ms - 16 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:15:26:22 +0100] [info] ::1 - "POST /api/v1/login HTTP/1.1" 200 4.800 ms - 206 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:15:27:13 +0100] [info] ::1 - "GET /api/v1/users HTTP/1.1" 400 0.534 ms - 34 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:15:27:29 +0100] [info] ::1 - "GET /api/v1/users HTTP/1.1" 400 0.596 ms - 34 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:15:28:17 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:15:29:17 +0100] [info] ::1 - "GET /api/v1/users HTTP/1.1" 400 50650.334 ms - 34 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:15:29:17 +0100] [info] ::1 - "GET /api/v1/users HTTP/1.1" 200 170.929 ms - 448 "-" "PostmanRuntime/7.26.8"
+
+[24/Jun/2021:15:30:39 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:15:31:02 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 10717.639 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:31:02 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 10904.406 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:33:02 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 4.760 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:33:02 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 0.828 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:33:24 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 5.804 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:33:24 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 0.498 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:33:53 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:15:36:15 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 90349.669 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:36:15 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 90583.802 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:36:15 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 0.441 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:36:15 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 19.221 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:36:43 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:15:39:06 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 136017.908 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:39:06 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 136227.127 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:40:22 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:15:41:49 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 11763.058 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:41:49 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 11606.445 ms - 124 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:42:20 +0100] [info] ::ffff:127.0.0.1 - "PUT /api/v1/adress/60d437ab409b240ef0f9f65f HTTP/1.1" 400 8770.453 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:48:18 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:15:48:57 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 400 20015.439 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:48:57 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 20199.184 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:49:27 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 8.227 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:49:43 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 15959.107 ms - 124 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:50:08 +0100] [info] ::ffff:127.0.0.1 - "PUT /api/v1/adress/60d437ab409b240ef0f9f65f HTTP/1.1" 200 6320.958 ms - 191 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:50:25 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 16225.219 ms - 123 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:50:44 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/adress HTTP/1.1" 200 8569.994 ms - 33 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:50:54 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 5271.811 ms - 259 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:51:25 +0100] [info] ::ffff:127.0.0.1 - "DELETE /api/v1/adress/60d437ab409b240ef0f9f65f HTTP/1.1" 200 7238.012 ms - 118 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:51:32 +0100] [info] ::ffff:127.0.0.1 - "DELETE /api/v1/adress/60d437ab409b240ef0f9f65f HTTP/1.1" 200 6946.791 ms - 118 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:51:32 +0100] [info] ::ffff:127.0.0.1 - "DELETE /api/v1/adress/60d437ab409b240ef0f9f65f HTTP/1.1" 200 3463.694 ms - 118 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:51:41 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 9289.805 ms - 137 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:51:42 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 849.232 ms - 137 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:51:43 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 416.649 ms - 137 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:53:36 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/adress HTTP/1.1" 200 2.469 ms - 33 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:15:53:38 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 4.304 ms - 263 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:16:03:06 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:16:03:18 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 144.203 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:16:03:18 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 304 81.724 ms - - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:16:04:52 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:16:05:01 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:16:05:03 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 176.521 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:16:05:03 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 304 93.877 ms - - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[24/Jun/2021:16:08:32 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:16:09:24 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:16:09:48 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:16:12:18 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[24/Jun/2021:16:13:15 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[25/Jun/2021:08:52:57 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[25/Jun/2021:08:56:51 +0100] [info] ::1 - "GET /api/v1/adress HTTP/1.1" 400 11.633 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+
+[25/Jun/2021:08:56:51 +0100] [info] ::1 - "POST /api/v1/login HTTP/1.1" 200 190.299 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+
+[25/Jun/2021:08:56:52 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/login HTTP/1.1" 200 5.976 ms - 206 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:56:52 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 304 17.024 ms - - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:57:21 +0100] [info] ::ffff:127.0.0.1 - "PUT /api/v1/adress/60d49bc4215a0e23f0bfa367 HTTP/1.1" 200 100.412 ms - 191 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:57:21 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 7.201 ms - 265 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:57:30 +0100] [info] ::ffff:127.0.0.1 - "DELETE /api/v1/adress/60d49c70215a0e23f0bfa368 HTTP/1.1" 200 13.323 ms - 118 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:57:30 +0100] [info] ::ffff:127.0.0.1 - "DELETE /api/v1/adress/60d49c70215a0e23f0bfa368 HTTP/1.1" 200 31.486 ms - 118 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:57:30 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 15.830 ms - 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:57:30 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 15.132 ms - 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:57:50 +0100] [info] ::ffff:127.0.0.1 - "POST /api/v1/adress HTTP/1.1" 200 8.333 ms - 33 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[25/Jun/2021:08:57:52 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/adress HTTP/1.1" 200 7.201 ms - 260 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+
+[14/Jul/2021:23:28:05 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[14/Jul/2021:23:29:22 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[14/Jul/2021:23:31:03 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 400 5.052 ms - 34 "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:32:06 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[14/Jul/2021:23:32:13 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 404 3.500 ms - 147 "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:32:51 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[14/Jul/2021:23:32:54 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 200 103.805 ms - 2 "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:36:11 +0100] [info] ::1 - "POST /etudiant HTTP/1.1" 200 53.858 ms - 33 "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:37:22 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[14/Jul/2021:23:37:33 +0100] [info] ::1 - "POST /etudiant HTTP/1.1" 200 65.631 ms - 33 "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:38:19 +0100] [info] ::1 - "POST /etudiant HTTP/1.1" 200 3.244 ms - 33 "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:38:46 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 200 7.907 ms - 221 "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:39:52 +0100] [info] ::1 - "GET /etudiant/60ef672dd473903e98432712 HTTP/1.1" 200 7.398 ms - 110 "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:41:16 +0100] [error] failed to update etudiant
+
+[14/Jul/2021:23:41:16 +0100] [info] ::1 - "PUT /etudiant/60ef672dd473903e98432712?matricule=1222 HTTP/1.1" 200 30.211 ms - - "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:41:53 +0100] [error] failed to update etudiant
+
+[14/Jul/2021:23:41:53 +0100] [info] ::1 - "PUT /etudiant/60ef672dd473903e98432712?matricule=1222 HTTP/1.1" 200 5.329 ms - - "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:42:23 +0100] [error] failed to update etudiant
+
+[14/Jul/2021:23:42:23 +0100] [info] ::1 - "PUT /etudiant/60ef672dd473903e98432712?matricule=1222 HTTP/1.1" 200 3.034 ms - - "-" "PostmanRuntime/7.26.8"
+
+[14/Jul/2021:23:42:31 +0100] [info] ::1 - "DELETE /etudiant/60ef672dd473903e98432712?matricule=1222 HTTP/1.1" 200 6.463 ms - 118 "-" "PostmanRuntime/7.26.8"
+
+[18/Jul/2021:21:33:37 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[18/Jul/2021:21:43:01 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/users HTTP/1.1" 404 5.384 ms - 151 "-" "-"
+
+[18/Jul/2021:21:44:46 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/users HTTP/1.1" 404 0.857 ms - 151 "-" "-"
+
+[18/Jul/2021:21:46:54 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/users HTTP/1.1" 404 0.779 ms - 151 "-" "-"
+
+[18/Jul/2021:21:47:56 +0100] [info] ::ffff:127.0.0.1 - "GET /api/v1/users HTTP/1.1" 404 0.829 ms - 151 "-" "-"
+
+[19/Jul/2021:06:57:47 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:06:58:14 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 200 54.821 ms - 3197 "-" "PostmanRuntime/7.26.8"
+
+[19/Jul/2021:06:58:38 +0100] [info] ::1 - "GET /classe HTTP/1.1" 404 2.731 ms - 145 "-" "PostmanRuntime/7.26.8"
+
+[19/Jul/2021:06:59:07 +0100] [info] ::1 - "GET /matiere HTTP/1.1" 404 0.988 ms - 146 "-" "PostmanRuntime/7.26.8"
+
+[19/Jul/2021:07:04:32 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:07:04:37 +0100] [info] ::1 - "GET /matiere HTTP/1.1" 404 3.153 ms - 146 "-" "PostmanRuntime/7.26.8"
+
+[19/Jul/2021:07:06:35 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:07:06:38 +0100] [info] ::1 - "GET /matiere HTTP/1.1" 200 53.681 ms - 2922 "-" "PostmanRuntime/7.26.8"
+
+[19/Jul/2021:07:06:51 +0100] [info] ::1 - "GET /note HTTP/1.1" 200 5.597 ms - 2 "-" "PostmanRuntime/7.26.8"
+
+[19/Jul/2021:07:07:16 +0100] [info] ::1 - "GET /prof HTTP/1.1" 200 5.078 ms - 803 "-" "PostmanRuntime/7.26.8"
+
+[19/Jul/2021:07:14:01 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:07:14:22 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:08:20:52 +0100] [info] ::1 - "GET /prof HTTP/1.1" 200 67.243 ms - 803 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:20:56 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 3.247 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:22:02 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 3.305 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:22:39 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 3.721 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:23:25 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 3.083 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:23:38 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.662 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:24:25 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 3.388 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:27:45 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 3.711 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:28:34 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 8.431 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:41:10 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.357 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:41:49 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.298 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:44:25 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.813 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:46:10 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.465 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:48:09 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 4.474 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:52:24 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.150 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:53:48 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.985 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:08:55:51 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.776 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:04:51 +0100] [info] ::1 - "GET /users?fname=60f4a19e46e116397cee6244 HTTP/1.1" 404 2.076 ms - 144 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:06:03 +0100] [info] ::1 - "GET /users?fname=60f4a19e46e116397cee6244 HTTP/1.1" 404 0.948 ms - 144 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:06:18 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.502 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:06:18 +0100] [info] ::1 - "GET /users?fname=60f4a19e46e116397cee6244 HTTP/1.1" 404 0.549 ms - 144 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:07:28 +0100] [info] ::1 - "GET /users?fname=60f4a19e46e116397cee6244 HTTP/1.1" 404 0.711 ms - 144 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:07:45 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.576 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:07:45 +0100] [info] ::1 - "GET /users?fname=60f4a19e46e116397cee6244 HTTP/1.1" 404 0.712 ms - 144 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:08:07 +0100] [info] ::1 - "GET /users?fname=60f4a19e46e116397cee6244 HTTP/1.1" 404 0.639 ms - 144 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:08:22 +0100] [info] ::1 - "GET /prof?fname=60f4a19e46e116397cee6244 HTTP/1.1" 200 3.786 ms - 803 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:12:48 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 200 7.002 ms - 99 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:13:11 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 3.076 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:13:11 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 2.941 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:19:52 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:20:55 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:22:53 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:23:01 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:24:23 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 70.365 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:26:05 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 3.724 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:26:05 +0100] [info] ::1 - "GET /matieres/ HTTP/1.1" 200 8.791 ms - 127 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:28:17 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:28:27 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 84.910 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:28:27 +0100] [info] ::1 - "GET /matieres/ HTTP/1.1" 200 9.678 ms - 2922 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:29:32 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:29:44 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 111.020 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:29:44 +0100] [info] ::1 - "GET /matieres/ HTTP/1.1" 200 8.643 ms - 197 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:31:14 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:31:20 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 97.863 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:31:20 +0100] [info] ::1 - "GET /matieres/ HTTP/1.1" 304 10.369 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:31:46 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:32:11 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:32:14 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 79.599 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:32:14 +0100] [info] ::1 - "GET /matieres/ HTTP/1.1" 304 12.062 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:32:29 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:32:58 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:32:58 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 83.607 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:32:58 +0100] [info] ::1 - "GET /matieres/ HTTP/1.1" 304 11.895 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:33:21 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:33:21 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 90.995 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:33:21 +0100] [info] ::1 - "GET /matieres/ HTTP/1.1" 304 8.182 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:33:52 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:34:01 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 82.752 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:34:01 +0100] [info] ::1 - "GET /matieres/ HTTP/1.1" 304 197.134 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:35:23 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 4.876 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:35:23 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6244 HTTP/1.1" 200 178.306 ms - 197 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:36:17 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:09:36:17 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 86.771 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:36:17 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6244 HTTP/1.1" 200 6.887 ms - 364 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:37:14 +0100] [info] ::ffff:127.0.0.1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 4.949 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:37:14 +0100] [info] ::ffff:127.0.0.1 - "GET /matieres/?prof=60f4a19e46e116397cee6244 HTTP/1.1" 304 4.463 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:38:30 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 3.614 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:38:30 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6244 HTTP/1.1" 304 3.391 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:39:06 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.915 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:39:17 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 7.188 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:39:17 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6245?id=60f4a19e46e116397cee6245 HTTP/1.1" 200 3.557 ms - 100 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:39:17 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6245 HTTP/1.1" 200 5.164 ms - 346 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:39:33 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 4.818 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:39:33 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6246?id=60f4a19e46e116397cee6246 HTTP/1.1" 200 3.931 ms - 103 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:39:33 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6246 HTTP/1.1" 200 2.846 ms - 376 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:46:21 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6246?id=60f4a19e46e116397cee6246 HTTP/1.1" 304 3.557 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:46:21 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6246 HTTP/1.1" 304 4.058 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:46:45 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6246?id=60f4a19e46e116397cee6246 HTTP/1.1" 304 5.715 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:09:46:45 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6246 HTTP/1.1" 304 4.952 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:03:44 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:10:04:12 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:10:05:02 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:10:11:26 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6246?id=60f4a19e46e116397cee6246 HTTP/1.1" 304 131.504 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:11:26 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6246 HTTP/1.1" 304 9.883 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:15:01 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6246?id=60f4a19e46e116397cee6246 HTTP/1.1" 304 4.432 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:15:01 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6246 HTTP/1.1" 304 2.400 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:16:31 +0100] [info] ::1 - "GET /etudiants/?class=GRT1 HTTP/1.1" 200 5.682 ms - 616 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:16:53 +0100] [info] ::1 - "GET /etudiants/?class=GRT1 HTTP/1.1" 304 3.698 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:17:01 +0100] [info] ::1 - "GET /etudiants/?class=GRT1 HTTP/1.1" 304 2.771 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:20:48 +0100] [info] ::1 - "GET /etudiants/?class=GRT1 HTTP/1.1" 304 2.954 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:20:50 +0100] [info] ::1 - "GET /etudiants/?class=GRT1 HTTP/1.1" 304 3.352 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:21:52 +0100] [info] ::1 - "GET /etudiants/?class=GRT1 HTTP/1.1" 304 2.922 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:26:08 +0100] [info] ::1 - "GET /etudiants/?class=GRT1 HTTP/1.1" 304 2.557 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:26:48 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6246?id=60f4a19e46e116397cee6246 HTTP/1.1" 304 3.748 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:26:48 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6246 HTTP/1.1" 304 2.495 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:27:39 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.570 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:27:39 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6249?id=60f4a19e46e116397cee6249 HTTP/1.1" 200 4.836 ms - 97 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:27:39 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6249 HTTP/1.1" 200 2.016 ms - 250 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:27:49 +0100] [info] ::1 - "GET /etudiants/?class=ASR HTTP/1.1" 200 3.659 ms - 628 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:29:01 +0100] [info] ::1 - "GET /etudiants/?class=ASR HTTP/1.1" 304 2.756 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:31:42 +0100] [info] ::1 - "GET /etudiants/?class=ASR HTTP/1.1" 304 1.923 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:32:28 +0100] [info] ::1 - "GET /etudiants/?class=ASR HTTP/1.1" 304 2.465 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:36:19 +0100] [info] ::1 - "GET /etudiants/?class=ASR HTTP/1.1" 304 2.912 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:37:48 +0100] [info] ::1 - "GET /etudiants/?class=ASR HTTP/1.1" 304 2.653 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:38:44 +0100] [info] ::1 - "GET /etudiants/?class=ASR HTTP/1.1" 304 2.376 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:39:44 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.659 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:39:44 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee624b?id=60f4a19e46e116397cee624b HTTP/1.1" 200 6.352 ms - 97 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:39:45 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee624b HTTP/1.1" 200 3.927 ms - 388 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:39:54 +0100] [info] ::1 - "GET /etudiants/?class=ASR HTTP/1.1" 304 2.614 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:39:59 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee624b?id=60f4a19e46e116397cee624b HTTP/1.1" 304 2.384 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:39:59 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee624b HTTP/1.1" 304 3.140 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:40:01 +0100] [info] ::1 - "GET /etudiants/?class=GRT2 HTTP/1.1" 200 2.356 ms - 619 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:41:06 +0100] [info] ::1 - "GET /etudiants/?class=GRT2 HTTP/1.1" 304 2.335 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:53:38 +0100] [info] ::1 - "GET /etudiants/?class=GRT2 HTTP/1.1" 304 2.069 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:53:48 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 6.008 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:53:48 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 4.103 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:53:48 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6244 HTTP/1.1" 304 3.355 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:56:02 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 2.554 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:56:02 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6244 HTTP/1.1" 304 1.837 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:56:16 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6244?id=60f4a19e46e116397cee6244 HTTP/1.1" 304 2.813 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:56:16 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6244 HTTP/1.1" 304 2.496 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:56:29 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 2.263 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:57:24 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 1.881 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:57:24 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6245?id=60f4a19e46e116397cee6245 HTTP/1.1" 304 3.486 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:57:24 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6245 HTTP/1.1" 304 2.084 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:57:52 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 200 2.513 ms - 3088 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:10:58:09 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 304 3.579 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:00:24 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 304 2.240 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:05:22 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 304 4.134 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:07:35 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 304 2.886 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:12:27 +0100] [info] ::1 - "GET /etudiants/ HTTP/1.1" 200 1.859 ms - 3088 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:14:17 +0100] [info] ::1 - "GET /etudiants/ HTTP/1.1" 304 2.845 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:15:09 +0100] [info] ::1 - "GET /etudiants/ HTTP/1.1" 304 2.924 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:15:39 +0100] [info] ::1 - "GET /etudiants/ HTTP/1.1" 304 3.828 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:18:01 +0100] [info] ::1 - "GET /etudiants/ HTTP/1.1" 304 2.323 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:18:52 +0100] [info] ::1 - "GET /etudiants/ HTTP/1.1" 304 2.762 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:19:15 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 304 3.820 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:19:15 +0100] [info] ::1 - "GET /etudiants/ HTTP/1.1" 304 2.397 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:20:37 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 200 2.822 ms - 120 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:22:09 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.183 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:22:30 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.134 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:24:52 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.937 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:24:52 +0100] [info] ::1 - "GET /matieres/?prof=%5Bobject%20Object%5D HTTP/1.1" 200 2.792 ms - 2 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:27:32 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.109 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:27:32 +0100] [info] ::1 - "GET /matieres/?prof=GEII HTTP/1.1" 200 1.693 ms - 2 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:28:38 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.049 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:28:38 +0100] [info] ::1 - "GET /matieres/?prof=GEII HTTP/1.1" 304 1.862 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:29:08 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 3.934 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:29:09 +0100] [info] ::1 - "GET /matieres/?prof=GEII HTTP/1.1" 304 2.634 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:29:39 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.129 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:29:39 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 200 2.493 ms - 197 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:31:12 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.890 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:31:12 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 4.772 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:32:43 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 3.211 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:32:43 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.396 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:33:25 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 1.940 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:33:26 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.322 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:35:00 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:11:35:15 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[19/Jul/2021:11:35:22 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 68.941 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:35:22 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 200 9.450 ms - 512 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:38:29 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 5.851 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:38:29 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 6.006 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:39:04 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.992 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:39:04 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 3.088 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:39:39 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 6.150 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:39:39 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.495 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:40:42 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.835 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:40:42 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.285 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:43:28 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 3.191 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:43:28 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 3.104 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:43:55 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 12.614 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:43:56 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.319 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:44:17 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 3.755 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:44:17 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.484 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:45:23 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.575 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:45:23 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 3.002 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:45:33 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.441 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:45:33 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.224 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:45:58 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.470 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:45:58 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.903 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:47:19 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 3.914 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:47:19 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.474 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:47:38 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.588 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:47:39 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 1.787 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:47:54 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.783 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:47:54 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.624 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:48:07 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 2.490 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:48:07 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 3.358 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:48:23 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a5?id=60f49764fdb7f53f842127a5 HTTP/1.1" 304 3.499 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:48:23 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.340 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:52:57 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 304 4.203 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:52:57 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a6?id=60f49764fdb7f53f842127a6 HTTP/1.1" 200 2.457 ms - 121 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:52:57 +0100] [info] ::1 - "GET /matieres/?class=GLT HTTP/1.1" 200 3.695 ms - 610 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:54:10 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 304 2.950 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:54:10 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 200 1.809 ms - 127 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:54:10 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 4.443 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:54:57 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.471 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:54:57 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.343 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:55:02 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 3.576 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:55:02 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.100 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:55:38 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.621 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:55:38 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 4.635 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:56:47 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 3.285 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:56:47 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.419 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:57:21 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.640 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:57:21 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 3.514 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:57:24 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 4.156 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:57:24 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 3.696 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:58:43 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.555 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:58:43 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.563 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:59:46 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.557 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:11:59:46 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.828 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:00:22 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.525 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:00:22 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.239 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:01:05 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.439 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:01:05 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 3.251 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:01:18 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.610 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:01:18 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.426 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:02:03 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 3.437 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:02:03 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.616 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:03:05 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127ad?id=60f49764fdb7f53f842127ad HTTP/1.1" 304 2.306 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:03:05 +0100] [info] ::1 - "GET /matieres/?class=GEII HTTP/1.1" 304 2.550 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:03:44 +0100] [info] ::1 - "GET /prof HTTP/1.1" 304 5.665 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:03:44 +0100] [info] ::1 - "GET /prof/60f4a19e46e116397cee6245?id=60f4a19e46e116397cee6245 HTTP/1.1" 304 4.015 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:03:44 +0100] [info] ::1 - "GET /matieres/?prof=60f4a19e46e116397cee6245 HTTP/1.1" 304 2.226 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:03:53 +0100] [info] ::1 - "GET /etudiants/?class=GRT1 HTTP/1.1" 304 3.477 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:04:36 +0100] [info] ::1 - "GET /etudiant HTTP/1.1" 304 2.225 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:04:36 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a7?id=60f49764fdb7f53f842127a7 HTTP/1.1" 200 2.069 ms - 122 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:04:36 +0100] [info] ::1 - "GET /matieres/?class=GRT1 HTTP/1.1" 200 2.418 ms - 604 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:05:22 +0100] [info] ::1 - "GET /etudiant/60f49764fdb7f53f842127a7?id=60f49764fdb7f53f842127a7 HTTP/1.1" 304 2.514 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[19/Jul/2021:12:05:22 +0100] [info] ::1 - "GET /matieres/?class=GRT1 HTTP/1.1" 304 3.589 ms - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+[20/Dec/2023:05:38:14 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[20/Dec/2023:05:43:14 +0100] [info] ::ffff:127.0.0.1 - "POST /users HTTP/1.1" 400 6.795 ms - 34 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:45:09 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[20/Dec/2023:05:45:28 +0100] [info] ::ffff:127.0.0.1 - "POST /users HTTP/1.1" 400 7.919 ms - 34 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:45:31 +0100] [info] ::ffff:127.0.0.1 - "POST /users HTTP/1.1" 400 0.517 ms - 34 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:47:07 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[20/Dec/2023:05:47:48 +0100] [info] ::ffff:127.0.0.1 - "POST /users HTTP/1.1" 400 7.785 ms - 34 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:47:49 +0100] [info] ::ffff:127.0.0.1 - "POST /users HTTP/1.1" 400 0.901 ms - 34 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:48:10 +0100] [info] ::ffff:127.0.0.1 - "POST /users/create HTTP/1.1" 200 166.451 ms - 33 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:48:59 +0100] [info] ::ffff:127.0.0.1 - "POST /users/create HTTP/1.1" 200 9.727 ms - 33 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:49:41 +0100] [info] ::ffff:127.0.0.1 - "POST /longin HTTP/1.1" 400 0.636 ms - 34 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:49:43 +0100] [info] ::ffff:127.0.0.1 - "POST /longin HTTP/1.1" 400 0.520 ms - 34 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:49:51 +0100] [info] ::ffff:127.0.0.1 - "POST /login HTTP/1.1" 200 21.854 ms - 214 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[20/Dec/2023:05:52:48 +0100] [info] ::ffff:127.0.0.1 - "GET /users HTTP/1.1" 200 12.159 ms - 155 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[22/Dec/2023:05:53:48 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[30/Dec/2023:17:08:51 +0100] [info] server started. Listening on port 3000 in "development" mode
+

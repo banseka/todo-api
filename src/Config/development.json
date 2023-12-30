@@ -1,0 +1,16 @@
+{
+    "env": "development",
+    "port": 3000,
+    "db": {
+        "host": "127.0.0.1:27017",
+        "name": "super-todo",
+        "auth": {
+            "user": "",
+            "password": ""
+        }
+    },
+    "oauthSalt": "shhhhh",
+    "oauthTTL": 3630,
+    "saltRounds": 5,
+    "basePath": ""
+}

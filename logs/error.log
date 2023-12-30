@@ -1,0 +1,78 @@
+[14/Jul/2021:23:41:16 +0100] [error] failed to update etudiant
+
+[14/Jul/2021:23:41:53 +0100] [error] failed to update etudiant
+
+[14/Jul/2021:23:42:23 +0100] [error] failed to update etudiant
+
+[19/Jul/2021:09:28:04 +0100] [error] uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/Services/matiereService.ts[0m:[93m20[0m:[93m13[0m - [91merror[0m[90m TS2739: [0mType 'Matiere[]' is missing the following properties from type 'Matiere': name, nbreCredit, id_prof
+
+[7m20[0m             return await matiereCollection.getMatiereByQuery(param);
+[7m  [0m [91m            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/Services/matiereService.ts[0m:[93m20[0m:[93m13[0m - [91merror[0m[90m TS2739: [0mType 'Matiere[]' is missing the following properties from type 'Matiere': name, nbreCredit, id_prof
+
+[7m20[0m             return await matiereCollection.getMatiereByQuery(param);
+[7m  [0m [91m            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:587:12)
+    at reportTSError (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:591:19)
+    at getOutput (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:921:36)
+    at Object.compile (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:1189:32)
+    at Module.m._compile (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:1295:42)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:1298:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+
+[19/Jul/2021:10:03:56 +0100] [error] uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/Services/etudiantService.ts[0m:[93m21[0m:[93m13[0m - [91merror[0m[90m TS2740: [0mType 'Etudiant' is missing the following properties from type 'any[]': length, pop, push, concat, and 26 more.
+
+[7m21[0m             return await etudiantCollection.getetudiantById(id);
+[7m  [0m [91m            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/Services/etudiantService.ts[0m:[93m21[0m:[93m13[0m - [91merror[0m[90m TS2740: [0mType 'Etudiant' is missing the following properties from type 'any[]': length, pop, push, concat, and 26 more.
+
+[7m21[0m             return await etudiantCollection.getetudiantById(id);
+[7m  [0m [91m            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:587:12)
+    at reportTSError (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:591:19)
+    at getOutput (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:921:36)
+    at Object.compile (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:1189:32)
+    at Module.m._compile (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:1295:42)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\LONDO TECHNOLOGY\Desktop\formations\formaton dimitri\nodejs\projet2\node_modules\ts-node\src\index.ts:1298:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+
+[29/Dec/2023:05:45:08 +0100] [error] uncaughtException: MongoClient must be connected before calling MongoClient.prototype.db
+MongoError: MongoClient must be connected before calling MongoClient.prototype.db
+    at MongoClient.db (C:\WORKSPACE\blue-whale\todo-api\node_modules\mongodb\lib\mongo_client.js:350:11)
+    at new TodoCollection (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:11:44)
+    at Object.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\index.ts:44:24)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module.m._compile (C:\Users\user\AppData\Roaming\nvm\v18.18.2\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\user\AppData\Roaming\nvm\v18.18.2\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+
+[29/Dec/2023:05:46:47 +0100] [error] uncaughtException: MongoClient must be connected before calling MongoClient.prototype.db
+MongoError: MongoClient must be connected before calling MongoClient.prototype.db
+    at MongoClient.db (C:\WORKSPACE\blue-whale\todo-api\node_modules\mongodb\lib\mongo_client.js:350:11)
+    at new TodoCollection (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:11:44)
+    at Object.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\index.ts:44:24)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module.m._compile (C:\Users\user\AppData\Roaming\nvm\v18.18.2\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\user\AppData\Roaming\nvm\v18.18.2\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
+
