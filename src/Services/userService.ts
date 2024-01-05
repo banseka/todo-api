@@ -3,6 +3,7 @@ import jwt from 'jsonwebtoken';
 import { User } from "../models/user";
 import { config } from "../config";
 import { logger } from "../winston";
+import { log } from "winston";
 
 
 export class UserService {
@@ -62,96 +63,44 @@ export class UserService {
     // }
 
     async authService (data: any): Promise<any>{
-        try {
-            const userToLog = await this.usersCollection.getUserByQuery({ username: data.username });
-            if (userToLog == null) {
-                return 'user not found';
-            } else if (userToLog.password !== data.password) {
-                return 'bad password';
+        // try {
+        //     const userToLog = await this.usersCollection.getUserByQuery({ username: data.username });
+        //     if (userToLog == null) {
+        //         return 'user not found';
+        //     } else if (userToLog.password !== data.password) {
+        //         return 'bad password';
 
-            } {
-                // tslint:disable-next-line: no-shadowed-variable
-                const token = await jwt.sign(userToLog, config.get('oauthSalt'));
-                return 'Bearer ' + token;
+        //     } {
+        //         // tslint:disable-next-line: no-shadowed-variable
+        //         const token = await jwt.sign(userToLog, config.get('oauthSalt'));
+        //         return 'Bearer ' + token;
+        //     }
+        // } catch (error : any) {
+        //     logger.error(`failed to log user \n${error.message}\n${error.stack}`);
+        //     return error;
+        // }
+
+        try {
+            const { email, password } = data;
+            if (!email || !password) {
+              return new Error('LoginOrPasswordNotProvided');
             }
-        } catch (error : any) {
-            logger.error(`failed to log user \n${error.message}\n${error.stack}`);
-            return error;
-        }
+            const foundUser: User = await this.usersCollection.getUserByQuery({ email: email });
+            if (!foundUser) {
+                logger.debug("AAAAAAAAAAAAAAAAAA user not found")
+               throw new Error('UserNotFound');
+            }
+            const isVerifiedPassword = password === foundUser.password;
+            if (!isVerifiedPassword) {
+              throw new Error('IncorrectPassword');
+            }  
+             const token = await jwt.sign(foundUser, config.get('oauthSalt'));
+
+            return { status: 200, message: 'Access granted !', token }
+          } catch (error: any) {
+              logger.error(`failed to verify user at error ${error.message} \n ${error.body}`)
+            return {status: 401, message: "email or password incorrect"};
+          }
     }
 
 }
-
-
-// export const usersService = {
-
-//     getUserById: async (id: string): Promise<User> => {
-//         try {
-//             return await usersCollection.getUserById(id);
-//         } catch (error : any) {
-//             logger.error(`failed to get user by id \n${error.message}\n${error.stack}`);
-//             return error;
-//         }
-//     },
-
-//     getUsers: async (): Promise<User[]> => {
-//         try {
-//             return await usersCollection.getUsers();
-//         } catch (error : any) {
-//             logger.error(`failed to get users \n${error.message}\n${error.stack}`);
-//             return error;
-//         }
-//     },
-
-//     insertUser: async (user: User): Promise<any> => {
-//         try {
-//             const result = await usersCollection.insertUser(user);
-//             return { id: result };
-//         } catch (error : any) {
-//             logger.error(`failed to insrt user \n${error.message}\n${error.stack}`);
-//             return error;
-//         }
-//     },
-
-//     updateUser: async (id: string, user: User): Promise<any> => {
-
-//         try {
-//             return await usersCollection.updateUser(id, user);
-//         } catch (error : any) {
-//             logger.error(`failed to update user\n${error.message}\n${error.stack}`);
-//             return error;
-//         }
-//     },
-
-
-
-//     deleteUser: async (id: string): Promise<any> => {
-
-//         try {
-//             return await usersCollection.deleteUser(id);
-//         } catch (error : any) {
-//             logger.error(`failed to delete user \n${error.message}\n${error.stack}`);
-//             return error;
-//         }
-//     },
-
-//     authService: async (data: any): Promise<any> => {
-//         try {
-//             const userToLog = await usersCollection.getUserByQuery({ username: data.username });
-//             if (userToLog == null) {
-//                 return 'user not found';
-//             } else if (userToLog.password !== data.password) {
-//                 return 'bad password';
-
-//             } {
-//                 // tslint:disable-next-line: no-shadowed-variable
-//                 const token = await jwt.sign(userToLog, config.get('oauthSalt'));
-//                 return 'Bearer ' + token;
-//             }
-//         } catch (error : any) {
-//             logger.error(`failed to log user \n${error.message}\n${error.stack}`);
-//             return error;
-//         }
-//     }
-
-// }

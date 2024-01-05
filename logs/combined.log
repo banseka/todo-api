@@ -770,3 +770,273 @@
 
 [30/Dec/2023:17:08:51 +0100] [info] server started. Listening on port 3000 in "development" mode
 
+[30/Dec/2023:17:21:09 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[30/Dec/2023:17:28:37 +0100] [info] ::ffff:127.0.0.1 - "GET /users HTTP/1.1" 200 216.324 ms - 155 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[30/Dec/2023:17:29:04 +0100] [info] ::ffff:127.0.0.1 - "GET /users HTTP/1.1" 200 7.179 ms - 155 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[31/Dec/2023:22:14:40 +0100] [info] ::1 - "POST /create HTTP/1.1" 400 7.924 ms - 34 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[31/Dec/2023:22:16:26 +0100] [info] ::1 - "POST /users/create HTTP/1.1" 200 110.172 ms - 33 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[31/Dec/2023:22:17:24 +0100] [info] ::ffff:127.0.0.1 - "GET /users HTTP/1.1" 200 19.840 ms - 240 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[31/Dec/2023:22:18:54 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:19:48:33 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:19:49:36 +0100] [info] ::ffff:127.0.0.1 - "GET /users HTTP/1.1" 200 160.663 ms - 240 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:04:16 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:04:26 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:25:56 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:26:21 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 404 4.702 ms - 151 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:26:26 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 404 0.881 ms - 151 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:26:44 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:26:46 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 7.036 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:29:02 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:29:12 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:29:15 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 9.410 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:29:19 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 0.909 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:29:32 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 101.194 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:32:04 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:32:08 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 57.075 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:32:09 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 4.113 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:32:20 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 7.352 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:32:53 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 2.807 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:32:54 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 6.616 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:33:11 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 5.081 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:33:12 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 4.256 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:33:13 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 3.644 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:34:57 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:35:03 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 56.110 ms - 2 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:35:45 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:35:51 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:20:35:51 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 76.799 ms - 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:36:58 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[03/Jan/2024:20:36:59 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:20:36:59 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 55.736 ms - 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:37:00 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:20:37:00 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 9.501 ms - 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:37:13 +0100] [info] ::ffff:127.0.0.1 - "POST /users HTTP/1.1" 400 0.264 ms - 34 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:37:31 +0100] [info] ::ffff:127.0.0.1 - "POST /users/create HTTP/1.1" 200 36.455 ms - 33 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:20:37:44 +0100] [info] ::ffff:127.0.0.1 - "POST /users/login HTTP/1.1" 200 13.506 ms - 262 "-" "Thunder Client (https://www.thunderclient.com)"
+
+[03/Jan/2024:21:04:57 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:21:04:57 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 112.644 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[03/Jan/2024:21:04:59 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:21:04:59 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 15.140 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[03/Jan/2024:21:06:30 +0100] [info] ::1 - "POST /users/create HTTP/1.1" 200 27.660 ms - 33 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[03/Jan/2024:21:07:03 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 21.556 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[03/Jan/2024:21:08:52 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 10.124 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[03/Jan/2024:21:10:40 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 8.633 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[03/Jan/2024:21:14:42 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 13.696 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[04/Jan/2024:07:30:45 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 45.978 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[04/Jan/2024:07:31:09 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[04/Jan/2024:07:31:09 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 12.165 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[04/Jan/2024:19:45:03 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[04/Jan/2024:19:45:49 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[04/Jan/2024:19:45:49 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 79.802 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[04/Jan/2024:19:47:59 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[04/Jan/2024:19:47:59 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 24.261 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[04/Jan/2024:19:48:02 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[04/Jan/2024:19:48:02 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 9.101 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[04/Jan/2024:19:48:08 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 17.654 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:06:03:23 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 105.375 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:20:16:14 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[05/Jan/2024:20:16:19 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 71.581 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[05/Jan/2024:20:17:13 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 110.994 ms - 33 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[05/Jan/2024:20:17:28 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 8.204 ms - 33 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[05/Jan/2024:20:20:06 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 7.701 ms - 33 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[05/Jan/2024:20:20:08 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 6.648 ms - 33 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[05/Jan/2024:20:20:58 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:20:20:58 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 15.029 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:14:36 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[05/Jan/2024:21:14:36 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 224.276 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:18:39 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:18:39 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 13.182 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:18:41 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:18:41 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 15.722 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:20:32 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:20:32 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 8.135 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:21:02 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:21:02 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 10.646 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:21:41 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:21:41 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 10.082 ms - 54 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:22:07 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 23.950 ms - 262 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:30:42 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[05/Jan/2024:21:32:28 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[05/Jan/2024:21:32:47 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:32:47 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 27.294 ms - 44 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:33:14 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:33:14 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 17.003 ms - 44 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:33:17 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:33:17 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 9.087 ms - 44 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:33:18 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:33:18 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 9.941 ms - 44 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:33:19 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:33:19 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 14.116 ms - 44 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+

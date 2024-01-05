@@ -1,7 +1,8 @@
 export interface Todo {
+    completed: boolean;
     title: string;
     description: string;
-    status: "DONE"| "PENDING"| "CANCELLED"
+    createdby: string;
     created_at: Date;
     updated_at?: Date
 }

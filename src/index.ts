@@ -17,6 +17,7 @@ import { TodoCollection } from './Collections/todoCollection';
 import { Database } from './Collections/config';
 import { UserCollection } from './Collections/userCollection';
 import { UserService } from './Services/userService';
+import { Mongoose } from 'mongoose';
 
 
 const Helmet = helmet as any;
@@ -47,16 +48,16 @@ app.use(oauthVerification);
 
 //dataaabases initialisation
 const client = new MongoClient(uri)
-const dataBase  = new Database(client)
+const dataBase  = new Database()
 
 //Todo resource initailisation
-const todoCollection = new TodoCollection(dataBase, "todos")
+const todoCollection = new TodoCollection("todos")
 const todoService = new TodoService(todoCollection);
 const todoController = new TodoController(todoService);
 
 //users Resource
 
-const userCollection = new UserCollection(dataBase, "users")
+const userCollection = new UserCollection("users")
 const usersService = new UserService(userCollection);
 const userController = new UsersContoller(usersService)
 

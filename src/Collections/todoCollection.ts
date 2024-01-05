@@ -1,21 +1,20 @@
 import { logger } from "../winston";
 import { Database } from "./config";
 
-export class TodoCollection {
+export class TodoCollection extends Database {
 
-    private db: Database;
-    private collection: string;
+    private collection;
 
 
-    constructor(db: Database, collection: string) {
+    constructor( collection: string) {
+        super()
         this.collection = collection;
-        this.db = db
 
     }
 
     public async getTodoById(id: string): Promise<any> {
         try {
-            const dbCollection = (await this.db.getDb()).collection(this.collection)
+            const dbCollection = (await this.getDb()).collection(this.collection)
             return await dbCollection.findOne({ id });
         } catch (error: any) {
             logger.error(`failed to get todo  by id \n${error.message}\n${error.stack}`);
@@ -25,9 +24,12 @@ export class TodoCollection {
 
     public async getTodos(): Promise<any> {
         try {
-            const dbCollection = (await this.db.getDb()).collection(this.collection)
+            const dbCollection = (await this.getDb())
+            if (!dbCollection) {
+                throw new Error("error connecting to database")
+            }
 
-            return await dbCollection.find().toArray();
+            return;
         } catch (error: any) {
             logger.error(`failed to get todo s \n${error.message}\n${error.stack}`);
             return error;
@@ -36,7 +38,7 @@ export class TodoCollection {
 
     public async insertTodo(todo: any): Promise<any> {
         try {
-            const dbCollection = (await this.db.getDb()).collection(this.collection)
+            const dbCollection = (await this.getDb()).collection(this.collection)
 
             const result = await dbCollection.insertOne(todo);
             return result.insertedId;
@@ -49,7 +51,7 @@ export class TodoCollection {
     public async updateTodo(id: string, todo: any): Promise<any> {
 
         try {
-            const dbCollection = (await this.db.getDb()).collection(this.collection)
+            const dbCollection = (await this.getDb()).collection(this.collection)
 
             const result = await dbCollection.updateOne({ id }, { $set: todo });
             return result;
@@ -62,7 +64,7 @@ export class TodoCollection {
     public async changeTodoStatus(id: string, status: string): Promise<any> {
 
         try {
-            const dbCollection = (await this.db.getDb()).collection(this.collection)
+            const dbCollection = (await this.getDb()).collection(this.collection)
 
             const result = await dbCollection.updateOne({ id }, { $set: { status } });
             return result;
@@ -74,7 +76,7 @@ export class TodoCollection {
     public async deleteTodo(id: string): Promise<any> {
 
         try {
-            const dbCollection = (await this.db.getDb()).collection(this.collection)
+            const dbCollection = (await this.getDb()).collection(this.collection)
 
             const result = await dbCollection.deleteOne({ id });
             return result;

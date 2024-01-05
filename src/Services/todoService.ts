@@ -30,13 +30,13 @@ export class TodoService {
 
     public async insertTodo(todo: Todo): Promise<any> {
         try {
-            todo.status = "PENDING";
+            todo.completed = false;
             todo.created_at = new Date();
             const result = await this.todoCollection.insertTodo(todo);
-            return { id: result };
+            return { status: 200, message: "todo added successfull" };
         } catch (error: any) {
             logger.error(`failed to insrt todo  \n${error.message}\n${error.stack}`);
-            return error;
+            return {status: 500, message: error.message};
         }
     }
 
@@ -44,10 +44,11 @@ export class TodoService {
 
         try {
             todo.updated_at = new Date();
-            return await this.todoCollection.updateTodo(id, todo);
+            const data =  await this.todoCollection.updateTodo(id, todo);
+            return { status: 200, message: "Todo update successfull" };
         } catch (error: any) {
             logger.error(`failed to update todo \n${error.message}\n${error.stack}`);
-            return error;
+            return {status: 500, message: error.message};
         }
     }
 

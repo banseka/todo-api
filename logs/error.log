@@ -76,3 +76,121 @@ MongoError: MongoClient must be connected before calling MongoClient.prototype.d
     at Function.Module._load (node:internal/modules/cjs/loader:960:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)
 
+[03/Jan/2024:20:35:51 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:20:36:59 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:20:37:00 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:21:04:57 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[03/Jan/2024:21:04:59 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[04/Jan/2024:07:31:09 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[04/Jan/2024:19:45:49 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[04/Jan/2024:19:47:59 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[04/Jan/2024:19:48:02 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[05/Jan/2024:20:20:58 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:14:36 +0100] [error] failed to verify user at error IncorrectPassword 
+ undefined
+
+[05/Jan/2024:21:18:39 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:18:41 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:20:32 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:21:02 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:21:41 +0100] [error] failed to verify user at error UserNotFound 
+ undefined
+
+[05/Jan/2024:21:32:47 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:33:14 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:33:17 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:33:18 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
+[05/Jan/2024:21:33:19 +0100] [error] failed to insrt todo  
+fhfhdhdhshhshshsh
+Error: fhfhdhdhshhshshsh
+    at TodoService.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:35:19)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:14:53)
+    at C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:4:12)
+    at TodoService.insertTodo (C:\WORKSPACE\blue-whale\todo-api\src\Services\todoService.ts:82:16)
+    at TodoController.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:25:49)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
+
