@@ -264,3 +264,16 @@ Error: Argument passed in must be a single String of 12 bytes or a string of 24 
 [06/Jan/2024:12:36:59 +0100] [error] failed to verify user at error User Not Found 
  undefined
 
+[06/Jan/2024:16:53:50 +0100] [error] uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (C:\WORKSPACE\blue-whale\todo-api\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\index.ts:78:6)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module.m._compile (C:\WORKSPACE\blue-whale\todo-api\node_modules\ts-node\src\index.ts:1295:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\WORKSPACE\blue-whale\todo-api\node_modules\ts-node\src\index.ts:1298:12)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+

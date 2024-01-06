@@ -3,10 +3,11 @@
     "version": "2.0.0",
     "description": "ardess book version londo",
     "main": "index.js",
+    "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon src/index.ts",
-        "build": "ts-node src/index.ts"
+        "build": "tsc src/index.ts"
     },
     "author": "",
     "license": "ISC",
