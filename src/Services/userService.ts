@@ -3,7 +3,6 @@ import jwt from 'jsonwebtoken';
 import { User } from "../models/user";
 import { config } from "../config";
 import { logger } from "../winston";
-import { log } from "winston";
 
 
 export class UserService {
