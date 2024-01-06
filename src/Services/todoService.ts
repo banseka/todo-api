@@ -1,6 +1,7 @@
 import { logger } from "../winston";
 import { TodoCollection } from "../Collections/todoCollection";
 import { Todo } from "../models/todo";
+import { Response } from "../models/response";
 
 export class TodoService {
 
@@ -19,12 +20,16 @@ export class TodoService {
         }
     }
 
-    public async getTodos(): Promise<Todo[]> {
+    public async getTodos(query: any): Promise<Response> {
         try {
-            return await this.todoCollection.getTodos();
+            if (!query.userId) {
+                throw new Error("invalid request")
+            }
+            const todos = await this.todoCollection.getTodos(query);
+            return {status: 200, message: "successfull", data: todos}
         } catch (error: any) {
             logger.error(`failed to get todo s `, error.message, error.stack);
-            return error;
+            return {status: 500, message: error.message};
         }
     }
 
@@ -44,6 +49,7 @@ export class TodoService {
 
         try {
             todo.updated_at = new Date();
+            
             const data =  await this.todoCollection.updateTodo(id, todo);
             return { status: 200, message: "Todo update successfull" };
         } catch (error: any) {

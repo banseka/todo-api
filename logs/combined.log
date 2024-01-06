@@ -1040,3 +1040,465 @@ Error: fhfhdhdhshhshshsh
 
 [05/Jan/2024:21:33:19 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 14.116 ms - 44 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
 
+[05/Jan/2024:21:33:47 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[05/Jan/2024:21:35:22 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 110.951 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:36:13 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 14.057 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:38:41 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[05/Jan/2024:21:39:26 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[05/Jan/2024:21:39:35 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[05/Jan/2024:21:41:33 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 84.457 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:43:48 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 4.979 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:21:51:01 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:21:51:01 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 25.781 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:00:45 +0100] [info] ::1 - "POST /users/create HTTP/1.1" 200 42.903 ms - 33 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:01:12 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 11.478 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:19:01 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:19:01 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 172.543 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:25:03 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:03 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 96.908 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:25:06 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:06 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 12.793 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:25:07 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:07 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 11.131 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:25:08 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:08 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 12.008 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:25:09 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:09 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 11.529 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:26:08 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:26:08 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 7.547 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:26:10 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:26:10 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 14.135 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:26:16 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:26:16 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 10.788 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:30:01 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:01 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 8.256 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:30:15 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:15 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 40.399 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:30:15 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:15 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 7.606 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:30:16 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:16 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 6.908 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:30:22 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:22 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 9.669 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:31:09 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:31:09 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 13.242 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:33:25 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:33:25 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 14.279 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:34:15 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:34:15 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 4.489 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:43:00 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 48.380 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:45:34 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 212.240 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:45:58 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 7.005 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:46:14 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 8.425 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:48:39 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 7.000 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:48:52 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 10.612 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[05/Jan/2024:22:52:18 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 8.990 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:07:18:11 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 71.068 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:07:18:24 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 14.891 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:07:27:09 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:07:28:41 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:07:34:51 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:07:53:04 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 166.833 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:07:57:30 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 8.390 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:15:52 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 8.835 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:16:39 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 7.994 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:20:07 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 9.643 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:20:11 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 145.379 ms - 425 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:32:26 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 35.853 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:32:29 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 11.451 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:35:33 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 11.915 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:35:39 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 6.095 ms - 424 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:49:01 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 72.647 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:49:01 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 17.161 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:52:31 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[06/Jan/2024:09:52:31 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 100.371 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:53:01 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 12.931 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:09:53:01 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 11.789 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:07:42 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 58.591 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:07:43 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 14.555 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:12:57 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 49.826 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:12:57 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 14.184 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:31:02 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 93.698 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:31:02 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 13.820 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:31:05 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e/65987944e98ee529f00d1f8e HTTP/1.1" 404 18.653 ms - 194 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:35:46 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 7.582 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:35:46 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 7.926 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:35:55 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 120.105 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:38:05 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 6.424 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:38:05 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 5.257 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:42:00 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:10:42:21 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 112.378 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:45:42 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 244.749 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:45:43 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 10.964 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:45:45 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 9.059 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:49:44 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:10:50:14 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 91.080 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:50:14 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 33.960 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:50:18 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 8.779 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:51:15 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 5.614 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:51:16 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 4.386 ms - 425 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:52:55 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:10:53:03 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 148.343 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:54:11 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:10:54:18 +0100] [info] ::1 - "PUT /todos/6598f0b0e98ee529f00d1f90 HTTP/1.1" 200 62.385 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:55:49 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:10:56:09 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 101.310 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:56:09 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 76.836 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:10:59:06 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:11:00:01 +0100] [info] ::1 - "PUT /todos/6598f0b0e98ee529f00d1f90 HTTP/1.1" 200 41901.996 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:00:50 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 9250.975 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:01:07 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:11:01:27 +0100] [info] ::1 - "GET /todos/65987944e98ee529f00d1f8e HTTP/1.1" 400 7.290 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[06/Jan/2024:11:01:28 +0100] [info] ::1 - "GET /favicon.ico HTTP/1.1" 400 1.238 ms - 34 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+[06/Jan/2024:11:02:55 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 138.985 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:02:56 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 61.561 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:03:26 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 27124.031 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:07:22 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:11:07:49 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 8748.893 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:09:09 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:11:09:21 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 6778.249 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:10:00 +0100] [info] ::1 - "PUT /todos/6598f0b0e98ee529f00d1f90 HTTP/1.1" 200 7258.073 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:13:58 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:11:15:13 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 73.616 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:15:13 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 52.343 ms - 666 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:15:15 +0100] [info] ::1 - "PUT /todos/6598f0b0e98ee529f00d1f90 HTTP/1.1" 200 12.863 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:28:58 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 97.595 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:28:58 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 9.048 ms - 505 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:37:22 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 24.756 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:37:22 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 12.295 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:37:52 +0100] [info] ::1 - "PUT /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 35.032 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:38:39 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 10.181 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:38:39 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 6.023 ms - 504 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:42:15 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 18.186 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:42:16 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 6.857 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:44:28 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 11.127 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:44:28 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 7.087 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:45:32 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 5.720 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:45:32 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 6.482 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:49:31 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 5.854 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:49:32 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 255.354 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:53:09 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 9.285 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:53:09 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 3.950 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:57:37 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 5.943 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:57:37 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 5.499 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:58:38 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 4.265 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:11:58:39 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 4.315 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:04:39 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 37.910 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:04:39 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 7.806 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:08:04 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 11.931 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:08:04 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 5.714 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:08:09 +0100] [info] ::1 - "DELETE /todos/6598f0b0e98ee529f00d1f90 HTTP/1.1" 200 90.567 ms - 118 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:08:09 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 67.340 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:08:23 +0100] [info] ::1 - "DELETE /todos/6598f0b0e98ee529f00d1f90 HTTP/1.1" 200 13.170 ms - 118 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:08:23 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 14.413 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:11:54 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 4.370 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:11:54 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 24.766 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:11:57 +0100] [info] ::1 - "DELETE /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 3.845 ms - 118 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:11:57 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 4.396 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:13:14 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:12:13:19 +0100] [info] ::1 - "DELETE /todos/65987944e98ee529f00d1f8e HTTP/1.1" 200 111.570 ms - 118 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:13:19 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 77.774 ms - 278 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:15:58 +0100] [info] ::1 - "PUT /todos/6598f0b0e98ee529f00d1f90 HTTP/1.1" 200 10.450 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:16:05 +0100] [error] failed to delete todo 
+Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\WORKSPACE\blue-whale\todo-api\node_modules\bson\lib\bson\objectid.js:59:11)
+    at TodoCollection.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:84:64)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:59:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:40:53)
+    at fulfilled (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:31:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+[06/Jan/2024:12:16:05 +0100] [info] ::1 - "DELETE /todos/undefined HTTP/1.1" 200 19.597 ms - 11 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:16:05 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 7.515 ms - 277 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:16:07 +0100] [info] ::1 - "DELETE /todos/6598f0b0e98ee529f00d1f90 HTTP/1.1" 200 8.781 ms - 118 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:16:07 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 17.465 ms - 48 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:16:25 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 12.548 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:18:10 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 145.745 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:18:10 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 6.010 ms - 238 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:18:24 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 9.695 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:18:24 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 5.457 ms - 436 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:21:00 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 5.068 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:21:00 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 5.871 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:22:54 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 5.936 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:22:54 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 4.303 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:23:55 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 11.526 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:23:56 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 6.209 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:25:31 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 9.149 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:25:31 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 7.723 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:33:30 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 8.577 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:33:30 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 3.761 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:36:59 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[06/Jan/2024:12:36:59 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 17.213 ms - 41 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:37:06 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 10.106 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:37:07 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 4.757 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:46:36 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 60.692 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:46:36 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 10.760 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:49:04 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 5.554 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:49:04 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 16.633 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:52:04 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 5.257 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:52:05 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 3.741 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:59:06 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 6.445 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:12:59:06 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 9.326 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:00:50 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 3.750 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:00:50 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 4.571 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:01:58 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 6.515 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:01:59 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 2.957 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:02:22 +0100] [info] ::1 - "POST /todos/create HTTP/1.1" 200 18.584 ms - 49 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:02:22 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 5.630 ms - 636 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:02:57 +0100] [info] ::1 - "PUT /todos/6599368906a97e2864d825a2 HTTP/1.1" 200 15.710 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:03:00 +0100] [info] ::1 - "PUT /todos/6599370006a97e2864d825a3 HTTP/1.1" 200 6.192 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:07:49 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 11.180 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:07:49 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 4.601 ms - 714 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:07:59 +0100] [info] ::1 - "PUT /todos/6599414e06a97e2864d825a4 HTTP/1.1" 200 14.409 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:08:49 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 4.706 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:08:50 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 4.112 ms - 752 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:08:56 +0100] [info] ::1 - "PUT /todos/6599414e06a97e2864d825a4 HTTP/1.1" 200 21.632 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:08:56 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 21.111 ms - 751 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:09:35 +0100] [info] ::1 - "POST /users/login HTTP/1.1" 200 2.895 ms - 328 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:09:35 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 304 3.630 ms - - "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:09:44 +0100] [info] ::1 - "PUT /todos/6599414e06a97e2864d825a4 HTTP/1.1" 200 13.762 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:09:44 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 5.304 ms - 754 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:09:51 +0100] [info] ::1 - "PUT /todos/6599414e06a97e2864d825a4 HTTP/1.1" 200 14.907 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:09:51 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 5.277 ms - 752 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:10:07 +0100] [info] ::1 - "DELETE /todos/6599370006a97e2864d825a3 HTTP/1.1" 200 11.458 ms - 118 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:13:10:07 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 11.149 ms - 515 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:14:19:00 +0100] [info] ::1 - "DELETE /todos/6599368906a97e2864d825a2 HTTP/1.1" 200 39.252 ms - 118 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:14:19:00 +0100] [info] ::1 - "GET /todos?userId=6595be468ecd270ed4b7ca93 HTTP/1.1" 200 38.078 ms - 285 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+
+[06/Jan/2024:14:19:18 +0100] [info] ::1 - "PUT /todos/6599414e06a97e2864d825a4 HTTP/1.1" 200 21.539 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+

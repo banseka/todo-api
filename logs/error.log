@@ -194,3 +194,73 @@ Error: fhfhdhdhshhshshsh
     at step (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:33:23)
     at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Controllers\todoController.ts:14:53)
 
+[05/Jan/2024:21:51:01 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:19:01 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:03 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:06 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:07 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:08 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:25:09 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:26:08 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:26:10 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:26:16 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:01 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:15 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:15 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:16 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:30:22 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:31:09 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:33:25 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[05/Jan/2024:22:34:15 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[06/Jan/2024:09:52:31 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+
+[06/Jan/2024:12:16:05 +0100] [error] failed to delete todo 
+Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\WORKSPACE\blue-whale\todo-api\node_modules\bson\lib\bson\objectid.js:59:11)
+    at TodoCollection.<anonymous> (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:84:64)
+    at step (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:59:23)
+    at Object.next (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:40:53)
+    at fulfilled (C:\WORKSPACE\blue-whale\todo-api\src\Collections\todoCollection.ts:31:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+[06/Jan/2024:12:36:59 +0100] [error] failed to verify user at error User Not Found 
+ undefined
+

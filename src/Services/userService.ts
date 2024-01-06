@@ -87,19 +87,20 @@ export class UserService {
             }
             const foundUser: User = await this.usersCollection.getUserByQuery({ email: email });
             if (!foundUser) {
-                logger.debug("AAAAAAAAAAAAAAAAAA user not found")
-               throw new Error('UserNotFound');
+               throw new Error('User Not Found');
             }
             const isVerifiedPassword = password === foundUser.password;
             if (!isVerifiedPassword) {
-              throw new Error('IncorrectPassword');
+              throw new Error('Email or passwword incorrect');
             }  
              const token = await jwt.sign(foundUser, config.get('oauthSalt'));
+             
+             delete foundUser.password
 
-            return { status: 200, message: 'Access granted !', token }
+            return { status: 200, message: 'Access granted !', token, data: foundUser }
           } catch (error: any) {
               logger.error(`failed to verify user at error ${error.message} \n ${error.body}`)
-            return {status: 401, message: "email or password incorrect"};
+            return {status: 401, message: error.message};
           }
     }
 
