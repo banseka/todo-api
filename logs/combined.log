@@ -1502,3 +1502,11 @@ Error: Argument passed in must be a single String of 12 bytes or a string of 24 
 
 [06/Jan/2024:14:19:18 +0100] [info] ::1 - "PUT /todos/6599414e06a97e2864d825a4 HTTP/1.1" 200 21.539 ms - 50 "http://localhost:4200/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
 
+[06/Jan/2024:16:48:48 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:16:49:34 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:16:50:22 +0100] [info] server started. Listening on port 3000 in "development" mode
+
+[06/Jan/2024:16:51:05 +0100] [info] server started. Listening on port 3000 in "development" mode
+
