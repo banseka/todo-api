@@ -1,26 +1,12 @@
-FROM node:lts as builder
-WORKDIR /usr/src/app
-COPY package*.json ./
+FROM node
 
-RUN npm ci
+WORKDIR /usr/app
 
 COPY . .
 
-RUN npm run build
+RUN npm install
 
-FROM node:lts-slim
+RUN npm run build --development
 
-ENV NODE_ENV production
-USER node
-
-WORKDIR /usr/src/app
-
-COPY package*.json ./
-
-RUN npm ci --production
-
-COPY --from=builder /usr/src/app/dist ./dist
-
-EXPOSE 8080
 CMD [ "node", "dist/index.js" ]
 
