@@ -8,7 +8,7 @@ RUN npm install
 
 RUN npm run build 
 
-ADD ./build .
+COPY ./build .
 
 CMD [ "node", "build/index.js" ]
 
