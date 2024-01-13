@@ -6,9 +6,10 @@ ADD package*.json .
 
 RUN npm install
 
+COPY ./build .
+
 RUN npm run build 
 
-COPY ./build .
 
 CMD [ "node", "build/index.js" ]
 
