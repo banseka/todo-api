@@ -6,7 +6,7 @@ ADD package*.json .
 
 RUN npm install
 
-COPY ./build .
+COPY . .
 
 RUN npm run build 
 
